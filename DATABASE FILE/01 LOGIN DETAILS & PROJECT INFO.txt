@@ -2,7 +2,7 @@
 
 **Database Name: ecommerceweb**
 
-**Developed by akshit kandpal**
+**Developed by akshit kandpal, kamlesh , abhishek**
 
 **Recommended PHP Version 5.6, 7.4**
 
